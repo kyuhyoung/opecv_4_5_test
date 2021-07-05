@@ -1,0 +1,5 @@
+%YAML:1.0
+board_width: 15
+board_height: 10
+grid_width_mm: 25.0
+grid_height_mm: 25.0
